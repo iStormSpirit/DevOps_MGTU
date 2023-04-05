@@ -1,6 +1,6 @@
 ### DevOpsSpecialist
 
-Изучение технологий DevOps на курсах МГТУ Специалист
+Ознакомление с технологиями DevOps на курсах МГТУ Специалист 2021г
 
 https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html#installing-ansible-on-ubuntu
 
